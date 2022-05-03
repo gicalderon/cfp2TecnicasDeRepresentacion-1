@@ -2,7 +2,7 @@
 //datos y luego, mediante JavaScript, realiza operaciones
 //sobre los mismos..
 {
-letnombre;
-letnombre=prompt("Ingrese su nombre");
-alert("Su nombre es: " + nombre);
+let apellido;
+apellido=prompt("Ingrese su apellido");
+alert("Su nombre es: " + apellido);
 }
