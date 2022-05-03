@@ -13,11 +13,11 @@
 //teniendo en cuenta el tipo de dato. Al finalizar
 //mostrar el resultados con alert() o console.log() 
 {
-    letnumeroA;
-    letnumeroB;
-    letresult;
-    letnumeroA=parseInt(prompt("Ingrese un numero entero"));
-    letnumeroB=parseInt(prompt("Ingrese un numero entero"));
-    letresult=(numeroA+numeroB);
+    let numeroA;
+    let numeroB;
+    let result;
+    numeroA=parseInt(prompt("Ingrese un numero entero"));
+    numeroB=parseInt(prompt("Ingrese otro numero entero"));
+    result=(numeroA+numeroB);
     alert("El resultado de la suma es : " + result);
 }
