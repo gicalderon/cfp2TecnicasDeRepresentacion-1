@@ -12,3 +12,12 @@
 //matemáticas o de concatenación sobre las entradas
 //teniendo en cuenta el tipo de dato. Al finalizar
 //mostrar el resultados con alert() o console.log() 
+{
+    letnumeroA;
+    letnumeroB;
+    letresult;
+    letnumeroA=parseInt(prompt("Ingrese un numero entero"));
+    letnumeroB=parseInt(prompt("Ingrese un numero entero"));
+    letresult=(numeroA+numeroB);
+    alert("El resultado de la suma es : " + result);
+}
